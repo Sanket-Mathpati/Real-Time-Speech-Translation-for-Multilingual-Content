@@ -37,9 +37,8 @@ python -m pip install -r requirements.txt
 # Run the application
 python app.py
 
-# Open in browser
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
-⚙️ Module-Specific Commands
+Module-Specific Commands
 Module	Purpose	Example Command
 Module 2	Batch Translate	python module2_batch_translator.py
 Module 2	Convert MP3 to WAV	python convert_mp3_to_wav.py
